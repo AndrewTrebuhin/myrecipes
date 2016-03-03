@@ -179,7 +179,7 @@ DEPENDENCIES
   bootstrap-will_paginate (= 0.0.10)
   carrierwave (= 0.10.0)
   coffee-rails (~> 4.0.0)
-  fog (= 1.23.0)
+  fog
   fog-aws
   jbuilder (~> 2.0)
   jquery-rails
